@@ -44,7 +44,7 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
-import nonEnumerablePropertySymbolsIn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-nonenumerable-property-symbols-in@deno/mod.js';
+import nonEnumerablePropertySymbolsIn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-nonenumerable-property-symbols-in@v0.2.0-deno/mod.js';
 ```
 
 #### nonEnumerablePropertySymbolsIn( obj )
@@ -98,7 +98,7 @@ var symbols = nonEnumerablePropertySymbolsIn( obj );
 import defineProperty from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-define-property@deno/mod.js';
 import hasSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-symbol-support@deno/mod.js';
 import Symbol from 'https://cdn.jsdelivr.net/gh/stdlib-js/symbol-ctor@deno/mod.js';
-import nonEnumerablePropertySymbolsIn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-nonenumerable-property-symbols-in@deno/mod.js';
+import nonEnumerablePropertySymbolsIn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-nonenumerable-property-symbols-in@v0.2.0-deno/mod.js';
 
 var hasSymbols = hasSymbolSupport();
 var symbols;
