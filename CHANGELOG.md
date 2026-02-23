@@ -2,6 +2,16 @@
 
 > Package changelog.
 
+<section class="release" id="v0.2.1">
+
+## 0.2.1 (2026-02-07)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2024-02-24)
